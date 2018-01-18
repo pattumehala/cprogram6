@@ -6,7 +6,7 @@ printf("enter the value of m");
 scanf("%d",&m);
 for(s=0;s<=m;s++)
 {
-printf("Hello");
+printf("Hello\n");
 }
 return 0;
 }
